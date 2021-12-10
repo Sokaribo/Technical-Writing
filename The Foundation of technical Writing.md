@@ -3,6 +3,7 @@
 Starting a career in technical writing can be a frustrating process due to the abundance of information and misconceptions about what technical writing is and how to get started.
 This article summarises in detail the fundamentals of what you should know and consider when getting started in technical writing.
 
+
 ## Table of Contents
 
 - What is technical writing?
@@ -14,11 +15,14 @@ This article summarises in detail the fundamentals of what you should know and c
 - Summary
 
 
+
 ## What is technical writing?
 Technical writing is a unique sphere that unites communication and technology.
 It is the art of providing detail-oriented instructions to help users comprehend a specific skill, technology, or product. There are misconceptions that technical writing is just about writing. In reality, it is also about researching, understanding a technology, determining the audience, problem solving, and more.
 
 Technical writing is part of a bigger field called [Technical communications](https://www.mastersincommunications.com/faqs/what-is-technical-communication), which encompasses a set of activities that people do to discover, shape, and transmit technical information. The major difference between technical communication and the other kinds of writing is that technical communication has a somewhat different focus on purpose and audience.
+
+
 
 ## The role of the technical writer
 In simple terms, the role of a technical writer is that of a translator, whose aim is to explain difficult subjects to a specific audience in clear, easy-to-understand text.
@@ -28,13 +32,17 @@ Depending on the industry and company, documents created by technical writers ca
 - Developer Docs
 - Deployment Docs
 
+
 UI-based docs are documents that capture details of the software user interface. They specify how the end user may navigate the UI of a product or software. They include product manuals, repair manuals, user guides, etc.
 
 Developer Docs are documents that describe every aspect of how developers should interface with a given software or library. A subset of developer docs is [API (Application Programming Interfaces) documentation](https://stoplight.io/api-documentation-guide/basics/). 
 
 Deployment documents, on the other hand, are documents that assist users in deploying and securing a product or software on another product or software. They include [SDK (Software Development Kit) Documentation](www.sdk.org), which are helper documents or libraries that guide developers when they create apps for a specific product or platform.
 
+
 In general, technical writers produce technical documents that show the user the layout of products or processes, explain what lies ahead, and define how to navigate each step to achieve the desired result.
+
+
 
 ## Skills required in technical writing
 
@@ -50,7 +58,10 @@ Different documentation requires a different set of skills. However, there are f
    Part of a technical writer’s primary task is to be familiar with the product’s features. As a result, before producing documentation, a technical writer may be invited to participate in product testing, which assists in the creation of an easy-to-understand guidebook.
     They have to go through each feature of the product one by one. After that, build a list of features that work well and another list of ones that don’t. In other circumstances, features may function properly, but the product design itself may be unappealing.
 
+
 Technological innovation is consistently moving forward; new features and products are continuously designed. Hence, technical writers have to be able to quickly adapt and work with diverse technical tools. Technical writers are lifelong learners.
+
+
 
 ## The Technical Writer's Toolbox
 
@@ -60,6 +71,7 @@ Fundamental technical tools for technical writers can be categorised into the fo
 - Help or web authoring tools
 - Style guides
 - Publishing tools
+
 
 There are several available options for each of the above categories of tools. 
 
@@ -74,9 +86,11 @@ Other options include;
  For a structured authoring environment, Extensible MarkUp Language (XML) authoring tools may be adopted in place of document or desktop publishing tools. Examples of XML tools include XMetal, Arbortext editor, In.Vision, and Oxygen.
     
 
+
 ### Help or web authoring tools
 To develop online help or web based materials, there is a need for a help or [HTML](www.whatishtml.com) tool. For online help, tools such as RoboHelp and Flare can be used. To write HTML, Dreamweaver can be used. To create documents for more than one output (example, print and HTML), a text development tool with conversion capabilities or compatible third party conversion tools should be adopted.
 There are several third-party tools that can convert word processing files to other formats, including online help, HTML, HTML Help, JavaHelp, and XML. ePublisher and MIF2GO are examples of third-party conversion tools.
+
 
 
 ### Style guides
@@ -91,6 +105,8 @@ These guidelines explain issues such as;
 Most companies develop their own style guides and distribute them to all employees in either printed or online forms. However, some companies follow the guidelines in an established reference such as _[The Chicago Manual of Style](www.chicagomanual.com),_ _[Microsoft Manual of Style](www.microsoft.com)_, _[Department of Defence Style Guide](www.writedod.com)_, etc. 
  It is important to adhere to a technical writing style guide as it defines the communication standards for the documentation created.
 
+
+
 ## The Technical Writing Process
 
  Technical writing goes beyond just sitting down and typing; it also includes various tasks such as visual design, editing, and project management. 
@@ -100,6 +116,7 @@ The following technical writing process can be adopted:
 - Set up a doc plan
 - Get Started
 - Review and publish
+
 
 Starting smart and following a process encourages success in technical writing.
 
@@ -128,6 +145,7 @@ Starting smart and following a process encourages success in technical writing.
     There are several platforms to publish articles and projects, such as [Dev.to](www.dev.to), [Hashnode](www.hashnode.com), and [GitHub](www.github.com).
 
 
+
 ## Starting a career in technical writing
 
 Technical writing, just like any profession, has various processes, rules, best practices, skills, and so on that need to be understood.
@@ -151,6 +169,8 @@ To build a portfolio, follow the following process:
 - Write a how-to guide
 - Write a reference document
 - Write an explainer document for the technology or topic of interest
+
+
 
 ## Conclusion
 
