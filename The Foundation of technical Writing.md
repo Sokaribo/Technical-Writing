@@ -94,17 +94,26 @@ There are several third-party tools that can convert word processing files to ot
 
 
 ### Style guides
-These are manuals that define the style that should be adopted in technical writing. Style guides are guidelines that enable documentation to be written in a clearer, consistent tone and style.
-These guidelines explain issues such as;
+A technical writer's style guide is a set of guidelines that technical writers must follow when writing technical documentation. They define the style that should be adopted in technical writing. These style guides enable documentation to be written in a clearer, consistent tone and style.
+These guidelines explain issues such as:
+- The word count
 - Punctuation
 - Capitalization
 - Word choice and terminology
 - Highlighting
 - Acronym use
+- Use of charts and figures
 
-Most companies develop their own style guides and distribute them to all employees in either printed or online forms. However, some companies follow the guidelines in an established reference such as _[The Chicago Manual of Style](www.chicagomanual.com),_ _[Microsoft Manual of Style](www.microsoft.com)_, _[Department of Defence Style Guide](www.writedod.com)_, etc. 
- It is important to adhere to a technical writing style guide as it defines the communication standards for the documentation created.
+The style guide adopted is usually dependent on the type of documentation project. Most companies and technical writers develop their own style guides and distribute them to all employees in either printed or online forms. Other companies and technical writers may follow the guidelines in an established reference such as:_[The Chicago Manual of Style](www.chicagomanual.com), _[The Handbook of Technical Writing](www.handbookoftechnicalwriting.com)_, _[Open SUSE](www.opensuse.org)_, etc.
 
+The Chicago Manual of Style is a guide that focuses primarily on grammar and writing style. It provides guidance for punctuation, capitalization, abbreviations, hyphens, dashes, plurals, and possessiveness. Technical writers can adopt this style when writing software documentation or technical information for the web.
+
+The Handbook of Technical Writing offers guidelines for writing in a variety of technical contexts. The style guide provides tips for professional communication, organization and style, document design, tables, graphics, math notation, punctuation usage, and how to write technical documentation for other geographic regions.
+
+Open Suse is an open-source style guide for developers and designers who are creating software documentation.
+The technical writer's style guide is a one-page document that provides guidelines for grammar, formatting, punctuation, capitalization rules, hyphenation of compound words (receipts vs. receipts), etc. It also specifies the preferred fonts as Liberation Sans Narrow with Arial or Times New Roman as backup font choices. Moreover, the guide has a DocBook markup at the end to help you select the right XML element and make your document easy to translate from English.
+
+There are several technical writing style guides available, but it is important to adhere to a technical writing style guide that defines the communication standards for the documentation to be created. Technical writing style guides are fundamental considerations for any technical writing project. They are the blueprint for writers to follow when creating technical documentation.
 
 
 ## The Technical Writing Process
