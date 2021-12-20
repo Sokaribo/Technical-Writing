@@ -4,6 +4,7 @@ Articles in this project summarises in details topics and projects related to te
 
 Articles include:
 - The Foundation of Technical Writing
+- The advantage of CCMS in technical writing
 
 
 Feel free to comment, clarify and ask questions.
